@@ -3,7 +3,7 @@
 A Classification model designed to detect the type of toxic comments to detect and prevent online bullying.
 ------------------------------------------------------------------------------------------------------------
 The Major Libraries which have to be installed for running this project are :
-1) scikit-learn
+1)scikit-learn
 
 2)scipy
 
